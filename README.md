@@ -1,4 +1,4 @@
-# vue-spa-rest-api
+# Vue dynamic route and fetch API public
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue dynamic route and fetch API public
+
